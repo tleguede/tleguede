@@ -3,7 +3,6 @@
 -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tleguede&style=flat-square" alt="Profile views" />
   <h1>👋 Hi, I’m Thibaut Legrand LEGUÉDÉ</h1>
 </div>
 
@@ -25,3 +24,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tleguede&style=flat-square" alt="Profile views" />
+</div>
